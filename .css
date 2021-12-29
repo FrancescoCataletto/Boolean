@@ -1,0 +1,62 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+
+.logo{
+  height: 100px;
+  width: auto;
+}
+
+header{
+  text-align: center;
+  margin-top: 100px;
+  font-family: arial;
+  color: lime;
+}
+
+.prenotazioni{
+  background-color: lime;
+  width: 1000px;
+  border-style: solid;
+  text-align: center;
+  display: inline-block;
+}
+
+main{
+  position: absolute;
+  left: 500px;
+  color: white;
+  font-family: arial;
+}
+
+.progress-bar1{
+  background-color: orange;
+  height: 25px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.progress-bar2{
+  background-color: green;
+  height: 25px;
+  width: 200%;
+  border-radius: 10px;
+}
+
+.progress-bar3{
+  background-color: darkred;
+  height: 25px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+.box{
+ background-color: rgba(0,0,0,0.5);
+ left: 500px;
+ display: inline-block;
+ margin-left: 400px;
+ margin-top: 50px;
+
+}
